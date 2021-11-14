@@ -1,183 +1,183 @@
 data = {
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/85fab4ff-51ee-4ba7-9c94-fa17c2c8ac81/600x380" : "Одержимость"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/4eea2d03-c294-4554-8291-20bbc1155d42/600x380" : "Привидение"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/7f011fc0-7dee-4234-be4b-6fa2bf0e340c/600x380" : "Заплати другому"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/a96b14b6-4e17-4e00-8efa-92ccff98117b/600x380" : "Тренер Картер"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/ce432a00-be1c-4b7f-921e-4933aeb727c3/600x380" : "Король говорит!"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/19a386cf-c7ee-49fb-bcce-897a1ae01c02/600x380" : "Загадочная история Бенджамина Баттона"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/3c9b6880-e61f-49cb-8089-768b17d827df/600x380" : "Звёздные войны: Эпизод 3 – Месть ситхов"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/694d4406-01f7-4afc-8527-5d8733909084/600x380" : "Капернаум"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/66c94c4a-7bcb-4d88-9dd9-d5d95c00772d/600x380" : "Форма голоса"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/a6b3fc68-29f1-449f-9a82-45df48fefd76/600x380" : "Эрнест и Селестина: Приключения мышки и медведя"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f9e1ed65-2c26-41a2-a9dd-d908049c6653/600x380" : "Балто"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/31f15a2a-f8c0-4260-b552-55a25bf0b67f/600x380" : "Криминальное чтиво"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b8cab319-29b2-491a-94f1-52eff684e70e/600x380" : "Эффект бабочки"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/0c4f06d2-a888-458d-bbbe-405b419afa0e/600x380" : "Форма голоса"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/b281df19-3221-42fc-9591-80fc17dac075/600x380" : "Маленький принц"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/b5e9514f-268f-4b83-9db5-7428ea6375d7/600x380" : "Бесподобный мистер Фокс"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/5a9730fc-b609-4189-89c0-047a7bb141dd/600x380" : "Мстители: Война бесконечности"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/6e4f985b-9ab0-4b9c-aa8f-7fafb7f591cf/600x380" : "1+1"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/6c990120-b535-479e-b510-f27a0ea32698/600x380" : "Ученик чудовища"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/410b4186-9be1-4617-819e-aa3e6e32f762/600x380" : "Константин: Повелитель тьмы"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3be6059b-012b-4cf5-b688-f80b35e3bc9e/600x380" : "Зверополис"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/25e3e151-e0d6-46d9-b1b7-b7140688fa57/600x380" : "Запах женщины"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/0e86f45f-1aec-4456-93a1-394ca1731641/600x380" : "Рататуй"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/4140d135-e895-4cac-bb86-178af19d6dcd/600x380" : "Терминатор 2: Судный день"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/0f30208b-00a5-41cc-8ebc-3201b4606b0e/600x380" : "Лицо со шрамом"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/28b469c0-4360-4562-ab40-d95ab06cd6d7/600x380" : "Хоббит: Битва пяти воинств"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e2aaec8d-66ef-4f74-9af9-889689045b42/600x380" : "Дурак"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/a1b81bd6-4264-4b24-9686-b5ef3f8df648/600x380" : "История игрушек"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/c4cb31ca-2fbe-43e6-a6ab-2439bf838b65/600x380" : "Американская история X"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/c8e8de2d-cb8e-4663-a13d-84c748fab561/600x380" : "Пятый элемент"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/23a0cf2d-a2b9-48bd-a57d-5777e2fe53e6/600x380" : "Таксист"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/c998e507-ba8a-46f3-b984-5f743ed2c77b/600x380" : "Игра"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/01fe8fae-81f2-4686-a59f-49b5878adf4e/600x380" : "Пленницы"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/4bdf7353-8461-4e3c-b8d8-e9f92d953958/600x380" : "Невидимая сторона"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/35490ec8-e7ab-4f8b-a96b-ce27378881d8/600x380" : "Работа без авторства"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/419f53b5-7956-490e-9053-00a607108620/600x380" : "Молчание ягнят"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/da3e3eb6-224e-4f85-b004-d3b438717f2a/600x380" : "Ип Ман 4"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/c37317b3-5617-4735-9fa4-9103b71794c4/600x380" : "Люди в черном"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/a2dabda7-f37e-49f1-8b68-9b2144edc3ed/600x380" : "Эрин Брокович"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/84525871-2b06-4f7e-9afc-eb31eb8b6f54/600x380" : "Рок-н-рольщик"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/c408904c-af93-429d-87b8-5cd9bf57380d/600x380" : "Интерстеллар"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/eea0fb23-28a7-4d05-9c8d-8661df3a230e/600x380" : "Война"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/e3ef1044-6eec-4dd4-85f7-b6742b9234ae/600x380" : "Шрэк 2"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/29a6e69e-c675-426b-b2e1-1ccbc6b5a2be/600x380" : "Шоу Трумана"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/03b874a2-3107-4b3d-a77f-7cf2fa3f5eaa/600x380" : "Знакомьтесь, Джо Блэк"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/e242d974-4404-4258-8590-5c9e286cedc2/600x380" : "Семь"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/afee47bb-20b8-4f8e-9337-27a59ba4dacc/600x380" : "Скрытые фигуры"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/a2e59502-fbbd-4964-b1a4-a5dc72cf6476/600x380" : "Хоббит: Пустошь Смауга"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/044d3b32-7c34-4aa3-9379-4d6bfaa5b55b/600x380" : "Отступники"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/6d9c0b3a-9ca5-4dc0-9631-9516e7d8ddd0/600x380" : "Счастливое число Слевина"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/72b476c6-d3fd-45f0-a42a-231fadb5c971/600x380" : "Эрин Брокович"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/afba7e03-8232-44ee-8393-111ad469e569/600x380" : "Темный рыцарь: Возрождение легенды"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/5585028d-f9fe-41a1-925d-33273201a6ed/600x380" : "Аватар"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/eb8743d4-3b38-4ea2-a333-fac579c39e7f/600x380" : "Пираты Карибского моря: На краю света"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/fc5d3ef1-e283-4784-82b0-7cfa62764136/600x380" : "Искупление"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/f5a424cf-1333-44f4-9c4a-05c4a2470c52/600x380" : "Линкольн для адвоката"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0b18bf4f-4d35-4bc2-bffc-6647dbf3d630/600x380" : "Семь жизней"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/4291494e-a409-42ac-8dcb-4e609963e70c/600x380" : "В погоне за счастьем"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/93545f1e-f60b-47f2-82e8-1c9f209e13d5/600x380" : "Один дома"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/da1acd5f-e1f6-46ca-8335-ab6cf9cd116f/600x380" : "Гладиатор"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/c02ae759-6f14-49d3-93d5-1fbeae1bc97f/600x380" : "Исчезнувшая"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/15d570a0-a220-4405-a5f1-2a4531f84bfb/600x380" : "Гонка"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/02b4abbd-7f93-45c2-8143-b28098a0ec1f/600x380" : "Начало"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/619d9836-71cf-45ca-a1bc-c06244844c59/600x380" : "Старикам тут не место"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/cfd6a44d-a250-4aa6-bd04-3878806aeb4e/600x380" : "Далласский клуб покупателей"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/4716873/7d7344e3-7ed5-4819-8738-6679978d16dc/600x380" : "Райя и последний дракон"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/f4a4c3ed-77dd-497d-bf76-be338129f3fc/600x380" : "Брестская крепость"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/1144f716-ebbf-4dc1-b6e9-a5464e610f75/600x380" : "Судья"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/161753c3-0ab0-43c0-bace-24049aad4178/600x380" : "Последний самурай"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/f1088f73-2e83-4494-8399-855f2d36f2cc/600x380" : "Дело храбрых"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/728d1a20-f817-423d-b33c-637286667008/600x380" : "Вселенная Стивена Хокинга"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/9dac05ea-8410-4605-a021-a5a23d6fe6be/600x380" : "Мулан"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/3e6d8069-00cd-4273-8d00-13113275905b/600x380" : "Ходячий замок"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/ab4334a8-b268-4da4-be06-58d48a7cbd14/600x380" : "Великий Гэтсби"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/6da2c9ff-3a02-49c7-a5f8-9bce7806b82d/600x380" : "Бойцовский клуб"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/8bb2cd9f-c958-4e0d-8166-b37e5e5b14c5/600x380" : "Стражи Галактики"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/8851d74e-df26-47fe-94ad-80b45f4935f7/600x380" : "Клаус"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/64fd213d-adf5-46e5-87cb-9f6b5b18860e/600x380" : "Терминал"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/f10bc70b-004b-4be8-9405-002fa555f4cf/600x380" : "Берегись автомобиля"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/278d0c54-90ec-4666-ab04-bc6cbe88813d/600x380" : "Престиж"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/696999f5-d6a1-4e42-8785-20fa3d35e86d/600x380" : "Твоё имя"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3f4af917-1cc2-41f8-9c5f-992a7172f632/600x380" : "Побег из Шоушенка"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/c944f4b6-03fd-4f3a-a457-886144f5e1a4/600x380" : "Золотой телёнок"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/068edd57-17f7-4dc5-abdd-5be0221be7fc/600x380" : "Вверх"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/28bc889f-2de4-4cbf-b690-6744ba4d0163/600x380" : "Достучаться до небес"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/619176d9-edc8-4f0a-8788-5a9064319431/600x380" : "Назад в будущее 3"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/8e944fa5-9a05-4b24-ad61-d806d8a01f59/600x380" : "Прислуга"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/36def2a7-2b61-455a-af53-6a92c740a237/600x380" : "Человек-паук"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/cc8753d5-2cb7-4b6c-a376-804b45171402/600x380" : "Джентльмены"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/166098d1-adc2-4000-8a24-a54d8e0e728b/600x380" : "Бесславные ублюдки"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/35f5a5dc-fff9-4095-8815-5d85fa9778d0/600x380" : "Бойфренд из будущего"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/d48bf46f-14dc-4a33-82ca-487423dd4f5f/600x380" : "Храброе сердце"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/cafde1d7-96fc-4c9c-a6f4-8358c2c17c90/600x380" : "Стальной гигант"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/1d0bd84e-c272-494d-823b-6afe697d7d27/600x380" : "Остров проклятых"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/42da0fe4-1887-4e31-af47-a28bff81e78f/600x380" : "Хоббит: Нежданное путешествие"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/f7d2b505-c1a2-4c60-ad11-fb6a07d98631/600x380" : "Таксист"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/4b480f30-8b1f-4e5c-9e95-d6e8b4100368/600x380" : "Мальчик в полосатой пижаме"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/bc072279-cbad-40c4-8698-495d3882cc81/600x380" : "Начало"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/12840b22-2ab8-4a6f-97f9-f6fc7a4c6baf/600x380" : "Головоломка"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/6dc617cc-427b-4d83-b7bb-c48a4bd49343/600x380" : "Эрнест и Селестина: Приключения мышки и медведя"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/20d22e5c-104f-4cbf-8cb8-b9025b449bd7/600x380" : "Пираты Карибского моря: Сундук мертвеца"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/7c7a4cc2-75e7-4bc4-b230-69b50abff3ea/600x380" : "Корпорация монстров"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/9d2abdb9-358d-4b8b-a7da-b255dd80ab33/600x380" : "Властелин колец: Возвращение короля"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0b107ce5-0dba-430f-bac2-3f0faf01efec/600x380" : "Шерлок Холмс"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/7f277ac2-ef2f-428a-967d-57e2ad4d5db1/600x380" : "Трасса 60"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/92a79c28-e846-4384-8759-a506e1b53393/600x380" : "Три билборда на границе Эббинга, Миссури"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/7164edf7-c16f-4bb0-bfd1-d2d535c282ff/600x380" : "Гран Торино"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/c15c091e-7e79-41b6-b998-3b01ec8cbad5/600x380" : "Песнь моря"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/fa12ee9e-0e2e-42c4-9f65-c5c628cf029b/600x380" : "Ученик чудовища"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/1e4e56e1-6500-49da-8e73-36454d0731d0/600x380" : "Волк с Уолл-стрит"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/5f763d56-64c7-4d54-b456-d4bf4623e181/600x380" : "Лекарь: Ученик Авиценны"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/251318dc-d306-481e-b53c-70d91f86bf4f/600x380" : "Маска"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/991678da-892c-4c0d-828c-e32cb94ae392/600x380" : "День сурка"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/ef63dc02-0b7c-4795-b213-21868116bbc9/600x380" : "Мстители"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/b05f74f9-ca8c-41d8-846f-e26e4745941b/600x380" : "Шрэк"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/4dfda6dd-83e5-4df8-9ed9-100de8ea6c84/600x380" : "Гнев"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/fd138781-dbae-40b1-b197-9aea906c171b/600x380" : "Ford против Ferrari"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/8e796716-f6e0-488f-9551-0d249e778127/600x380" : "Пробуждение"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5c5ef15b-7741-4a50-a8b5-d9ec6433bc20/600x380" : "Темный рыцарь"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/82292c15-bcd1-4cfa-9c1f-c788535c8160/600x380" : "Ледниковый период"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/0cbefccf-2ea9-445c-be03-91cdf8d65c6c/600x380" : "Поймай меня, если сможешь"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/1438a08c-0421-4e7f-86b8-369cf62d2eee/600x380" : "Казино"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/19f27676-aaf9-40d2-a3f2-d51931f3239e/600x380" : "Гордость и предубеждение"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/412911c8-0787-4841-81c9-643db9f14280/600x380" : "Гангстер"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/0e017df0-b2a3-4368-84e6-3b7aa40223e5/600x380" : "Хоббит: Битва пяти воинств"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/eca01bb8-c60d-49a0-bc6e-c545d317c3f1/600x380" : "Троя"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/43edec4c-382c-4401-ba27-f38fe8768667/600x380" : "Достать ножи"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/17b80e9e-90d1-41ad-81be-909a9b4ec123/600x380" : "Человек-паук: Через вселенные"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/f1a57616-ae03-41dd-bf36-66631d9c9b98/600x380" : "Бешеные псы"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/44067ae1-3b10-4ab5-aa31-8255f44f0f0b/600x380" : "Мемуары гейши"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/8e0642c3-db2f-4e4a-94d5-936ee4c80e03/600x380" : "Большой куш"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/c46fde2b-74b1-4729-be93-db41ad451c20/600x380" : "Зеленая книга"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/38c16864-e23b-41c9-87c6-44aac4f07784/600x380" : "Такси"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/cdcaec5e-3472-4b60-8922-b31ee4d10cc2/600x380" : "Город бога"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/4b3d10f2-30b4-44fb-b2c4-bb9e6441c6fb/600x380" : "Области тьмы"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/71cc3bcb-eac2-481c-99b1-65296502ce00/600x380" : "Джанго освобожденный"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/32fef74e-d3a8-495f-8d2b-58e24b082e4f/600x380" : "Спасти рядового Райана"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/ce4e531a-8559-4abf-b55e-e2c3acdd71f6/600x380" : "Мимино"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/674ae04b-b86e-4afe-8cb3-305ef79c5994/600x380" : "Омерзительная восьмерка"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/d69ed082-4b37-4b8e-9eae-34f058d85c7c/600x380" : "Форрест Гамп"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/8f791065-707b-47e3-b082-967db87bba8c/600x380" : "Карты, деньги, два ствола"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/68a4fe4e-87b5-4316-b1f0-1bb537ae38e9/600x380" : "Пираты Карибского моря: Проклятие Черной жемчужины"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2f8e9a11-cc9d-4c5e-8857-ab05e80583ab/600x380" : "Паразиты"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/4288b6aa-e357-4920-ac2f-d8a109d38ded/600x380" : "Спирит: Душа прерий"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/e06d759c-8d75-483d-986b-60be05323d18/600x380" : "Титаник"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/dc9dfed1-270f-4369-8192-799ddc4ddaf0/600x380" : "Матрица"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/b6c78b9c-48f0-407a-a2bc-8847738c69a3/600x380" : "Марсианин"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/0b2c8d8b-31c3-493e-bbc0-1936c7e3d816/600x380" : "Гарри Поттер и Тайная комната"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/44286de2-ebcb-48b1-8103-43ecbb45906d/600x380" : "Славные парни"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/018a0d97-bda4-4679-b62e-7f0ab9e9af74/600x380" : "Брат"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/a32c0e1e-b4c1-40c1-bc48-40608419145d/600x380" : "Военный ныряльщик"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/a0d4a523-f69e-4363-a87a-cca296f047af/600x380" : "Отель «Гранд Будапешт»"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/dd7f4172-a116-40e0-938f-1d0a27d3fbc9/600x380" : "Властелин колец: Братство кольца"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/ffec8bf7-1588-49b2-9233-04c03edd2ac3/600x380" : "Ип Ман 4"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/9225f3ea-dc56-4be9-90a2-8a66e3aa624e/600x380" : "Невероятный мир глазами Энцо"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/c01fb439-7eef-451a-8f8e-a0a448ef4a9c/600x380" : "Изгой"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/a6f07cb7-7844-411d-90c9-c334147f72a1/600x380" : "Лучшее предложение"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/08a0de50-4f8f-4939-8bc7-7a3ac1b34bf9/600x380" : "Гарри Поттер и философский камень"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/221e8f85-71a4-4747-b3b5-7234c0c596b1/600x380" : "Мальчишник в Вегасе"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/44247294-97e2-4ed5-a852-5527a429a66a/600x380" : "По соображениям совести"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/cd14da8b-258c-4393-adf9-09a9c4b1752b/600x380" : "Хатико: Самый верный друг"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/cd39b933-8cfd-4719-8d5c-b08124fd806a/600x380" : "В поисках Немо"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/c2845a36-2100-4437-983b-fd312f9bdaea/600x380" : "Брат 2"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/a8bc2e84-c933-4991-83c8-1c68b5be1945/600x380" : "Леон"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/830f5433-4c26-433f-a2b9-705c42dce2ff/600x380" : "Восточный ветер"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/47a006e7-85ae-472c-99e8-5b28485e8fb5/600x380" : "Радио"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/692d9b89-cb08-4bd9-8770-d3fe23a48ac8/600x380" : "Принцесса Мононоке"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/75c5822c-a632-42f9-9c7b-d995f0d04e5c/600x380" : "Гарри Поттер и Дары Смерти: Часть II"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/f44693a5-df27-4faf-98ed-1e867b3b203d/600x380" : "Как приручить дракона"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/66e33d6d-894e-41dc-891f-c82d5a287e4a/600x380" : "Список Шиндлера"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/e19a5d65-24ad-4cfe-a6d1-7d50abed7310/600x380" : "Легенда о волках"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/5dffb941-f262-4b7a-8128-c00de1347def/600x380" : "Вторая жизнь Уве"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/d8c7bfae-ad84-4416-aec0-41b5e78016cf/600x380" : "Война"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/90af78e2-3981-467a-a2e3-53fd383223de/600x380" : "ВАЛЛ·И"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/a3bea781-6630-46cd-b9dd-adbf3e5650bb/600x380" : "Жизнь прекрасна"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/21692b50-6cfe-47c9-a3fb-4934849922f5/600x380" : "Железный человек"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/d753cf64-94ab-4e22-aa96-d0cde174712a/600x380" : "Гаттака"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/a8b9dba5-795b-4bf3-b14b-1e565712cbea/600x380" : "Тайна третьей планеты"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/e9369aa4-3106-46cd-bc39-579041656553/600x380" : "Доспехи Бога"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/93ccc693-545d-44ad-b4cf-cae06739352e/600x380" : "Адвокат дьявола"
-"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/35975f3e-11e5-483f-9895-be2689f99a0d/600x380" : "Зеленая миля"
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/85fab4ff-51ee-4ba7-9c94-fa17c2c8ac81/600x380" : "Одержимость",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/4eea2d03-c294-4554-8291-20bbc1155d42/600x380" : "Привидение",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/7f011fc0-7dee-4234-be4b-6fa2bf0e340c/600x380" : "Заплати другому",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/a96b14b6-4e17-4e00-8efa-92ccff98117b/600x380" : "Тренер Картер",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/ce432a00-be1c-4b7f-921e-4933aeb727c3/600x380" : "Король говорит!",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/19a386cf-c7ee-49fb-bcce-897a1ae01c02/600x380" : "Загадочная история Бенджамина Баттона",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/3c9b6880-e61f-49cb-8089-768b17d827df/600x380" : "Звёздные войны: Эпизод 3 – Месть ситхов",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/694d4406-01f7-4afc-8527-5d8733909084/600x380" : "Капернаум",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/66c94c4a-7bcb-4d88-9dd9-d5d95c00772d/600x380" : "Форма голоса",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/a6b3fc68-29f1-449f-9a82-45df48fefd76/600x380" : "Эрнест и Селестина: Приключения мышки и медведя",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f9e1ed65-2c26-41a2-a9dd-d908049c6653/600x380" : "Балто",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/31f15a2a-f8c0-4260-b552-55a25bf0b67f/600x380" : "Криминальное чтиво",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b8cab319-29b2-491a-94f1-52eff684e70e/600x380" : "Эффект бабочки",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/0c4f06d2-a888-458d-bbbe-405b419afa0e/600x380" : "Форма голоса",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/b281df19-3221-42fc-9591-80fc17dac075/600x380" : "Маленький принц",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/b5e9514f-268f-4b83-9db5-7428ea6375d7/600x380" : "Бесподобный мистер Фокс",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/5a9730fc-b609-4189-89c0-047a7bb141dd/600x380" : "Мстители: Война бесконечности",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/6e4f985b-9ab0-4b9c-aa8f-7fafb7f591cf/600x380" : "1+1",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/6c990120-b535-479e-b510-f27a0ea32698/600x380" : "Ученик чудовища",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/410b4186-9be1-4617-819e-aa3e6e32f762/600x380" : "Константин: Повелитель тьмы",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3be6059b-012b-4cf5-b688-f80b35e3bc9e/600x380" : "Зверополис",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/25e3e151-e0d6-46d9-b1b7-b7140688fa57/600x380" : "Запах женщины",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/0e86f45f-1aec-4456-93a1-394ca1731641/600x380" : "Рататуй",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/4140d135-e895-4cac-bb86-178af19d6dcd/600x380" : "Терминатор 2: Судный день",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/0f30208b-00a5-41cc-8ebc-3201b4606b0e/600x380" : "Лицо со шрамом",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/28b469c0-4360-4562-ab40-d95ab06cd6d7/600x380" : "Хоббит: Битва пяти воинств",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e2aaec8d-66ef-4f74-9af9-889689045b42/600x380" : "Дурак",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/a1b81bd6-4264-4b24-9686-b5ef3f8df648/600x380" : "История игрушек",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/c4cb31ca-2fbe-43e6-a6ab-2439bf838b65/600x380" : "Американская история X",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/c8e8de2d-cb8e-4663-a13d-84c748fab561/600x380" : "Пятый элемент",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/23a0cf2d-a2b9-48bd-a57d-5777e2fe53e6/600x380" : "Таксист",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/c998e507-ba8a-46f3-b984-5f743ed2c77b/600x380" : "Игра",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/01fe8fae-81f2-4686-a59f-49b5878adf4e/600x380" : "Пленницы",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/4bdf7353-8461-4e3c-b8d8-e9f92d953958/600x380" : "Невидимая сторона",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/35490ec8-e7ab-4f8b-a96b-ce27378881d8/600x380" : "Работа без авторства",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/419f53b5-7956-490e-9053-00a607108620/600x380" : "Молчание ягнят",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/da3e3eb6-224e-4f85-b004-d3b438717f2a/600x380" : "Ип Ман 4",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/c37317b3-5617-4735-9fa4-9103b71794c4/600x380" : "Люди в черном",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/a2dabda7-f37e-49f1-8b68-9b2144edc3ed/600x380" : "Эрин Брокович",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/84525871-2b06-4f7e-9afc-eb31eb8b6f54/600x380" : "Рок-н-рольщик",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/c408904c-af93-429d-87b8-5cd9bf57380d/600x380" : "Интерстеллар",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/eea0fb23-28a7-4d05-9c8d-8661df3a230e/600x380" : "Война",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/e3ef1044-6eec-4dd4-85f7-b6742b9234ae/600x380" : "Шрэк 2",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/29a6e69e-c675-426b-b2e1-1ccbc6b5a2be/600x380" : "Шоу Трумана",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/03b874a2-3107-4b3d-a77f-7cf2fa3f5eaa/600x380" : "Знакомьтесь, Джо Блэк",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/e242d974-4404-4258-8590-5c9e286cedc2/600x380" : "Семь",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/afee47bb-20b8-4f8e-9337-27a59ba4dacc/600x380" : "Скрытые фигуры",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/a2e59502-fbbd-4964-b1a4-a5dc72cf6476/600x380" : "Хоббит: Пустошь Смауга",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/044d3b32-7c34-4aa3-9379-4d6bfaa5b55b/600x380" : "Отступники",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/6d9c0b3a-9ca5-4dc0-9631-9516e7d8ddd0/600x380" : "Счастливое число Слевина",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/72b476c6-d3fd-45f0-a42a-231fadb5c971/600x380" : "Эрин Брокович",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/afba7e03-8232-44ee-8393-111ad469e569/600x380" : "Темный рыцарь: Возрождение легенды",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/5585028d-f9fe-41a1-925d-33273201a6ed/600x380" : "Аватар",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/eb8743d4-3b38-4ea2-a333-fac579c39e7f/600x380" : "Пираты Карибского моря: На краю света",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/fc5d3ef1-e283-4784-82b0-7cfa62764136/600x380" : "Искупление",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/f5a424cf-1333-44f4-9c4a-05c4a2470c52/600x380" : "Линкольн для адвоката",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0b18bf4f-4d35-4bc2-bffc-6647dbf3d630/600x380" : "Семь жизней",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/4291494e-a409-42ac-8dcb-4e609963e70c/600x380" : "В погоне за счастьем",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/93545f1e-f60b-47f2-82e8-1c9f209e13d5/600x380" : "Один дома",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/da1acd5f-e1f6-46ca-8335-ab6cf9cd116f/600x380" : "Гладиатор",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/c02ae759-6f14-49d3-93d5-1fbeae1bc97f/600x380" : "Исчезнувшая",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/15d570a0-a220-4405-a5f1-2a4531f84bfb/600x380" : "Гонка",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/02b4abbd-7f93-45c2-8143-b28098a0ec1f/600x380" : "Начало",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/619d9836-71cf-45ca-a1bc-c06244844c59/600x380" : "Старикам тут не место",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/cfd6a44d-a250-4aa6-bd04-3878806aeb4e/600x380" : "Далласский клуб покупателей",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/4716873/7d7344e3-7ed5-4819-8738-6679978d16dc/600x380" : "Райя и последний дракон",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/f4a4c3ed-77dd-497d-bf76-be338129f3fc/600x380" : "Брестская крепость",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/1144f716-ebbf-4dc1-b6e9-a5464e610f75/600x380" : "Судья",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/161753c3-0ab0-43c0-bace-24049aad4178/600x380" : "Последний самурай",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/f1088f73-2e83-4494-8399-855f2d36f2cc/600x380" : "Дело храбрых",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/728d1a20-f817-423d-b33c-637286667008/600x380" : "Вселенная Стивена Хокинга",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/9dac05ea-8410-4605-a021-a5a23d6fe6be/600x380" : "Мулан",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/3e6d8069-00cd-4273-8d00-13113275905b/600x380" : "Ходячий замок",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/ab4334a8-b268-4da4-be06-58d48a7cbd14/600x380" : "Великий Гэтсби",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/6da2c9ff-3a02-49c7-a5f8-9bce7806b82d/600x380" : "Бойцовский клуб",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/8bb2cd9f-c958-4e0d-8166-b37e5e5b14c5/600x380" : "Стражи Галактики",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/8851d74e-df26-47fe-94ad-80b45f4935f7/600x380" : "Клаус",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/64fd213d-adf5-46e5-87cb-9f6b5b18860e/600x380" : "Терминал",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/f10bc70b-004b-4be8-9405-002fa555f4cf/600x380" : "Берегись автомобиля",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/278d0c54-90ec-4666-ab04-bc6cbe88813d/600x380" : "Престиж",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/696999f5-d6a1-4e42-8785-20fa3d35e86d/600x380" : "Твоё имя",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3f4af917-1cc2-41f8-9c5f-992a7172f632/600x380" : "Побег из Шоушенка",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/c944f4b6-03fd-4f3a-a457-886144f5e1a4/600x380" : "Золотой телёнок",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/068edd57-17f7-4dc5-abdd-5be0221be7fc/600x380" : "Вверх",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/28bc889f-2de4-4cbf-b690-6744ba4d0163/600x380" : "Достучаться до небес",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/619176d9-edc8-4f0a-8788-5a9064319431/600x380" : "Назад в будущее 3",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/8e944fa5-9a05-4b24-ad61-d806d8a01f59/600x380" : "Прислуга",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/36def2a7-2b61-455a-af53-6a92c740a237/600x380" : "Человек-паук",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/cc8753d5-2cb7-4b6c-a376-804b45171402/600x380" : "Джентльмены",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/166098d1-adc2-4000-8a24-a54d8e0e728b/600x380" : "Бесславные ублюдки",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/35f5a5dc-fff9-4095-8815-5d85fa9778d0/600x380" : "Бойфренд из будущего",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/d48bf46f-14dc-4a33-82ca-487423dd4f5f/600x380" : "Храброе сердце",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/cafde1d7-96fc-4c9c-a6f4-8358c2c17c90/600x380" : "Стальной гигант",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/1d0bd84e-c272-494d-823b-6afe697d7d27/600x380" : "Остров проклятых",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/42da0fe4-1887-4e31-af47-a28bff81e78f/600x380" : "Хоббит: Нежданное путешествие",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/f7d2b505-c1a2-4c60-ad11-fb6a07d98631/600x380" : "Таксист",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/4b480f30-8b1f-4e5c-9e95-d6e8b4100368/600x380" : "Мальчик в полосатой пижаме",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/bc072279-cbad-40c4-8698-495d3882cc81/600x380" : "Начало",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/12840b22-2ab8-4a6f-97f9-f6fc7a4c6baf/600x380" : "Головоломка",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/6dc617cc-427b-4d83-b7bb-c48a4bd49343/600x380" : "Эрнест и Селестина: Приключения мышки и медведя",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/20d22e5c-104f-4cbf-8cb8-b9025b449bd7/600x380" : "Пираты Карибского моря: Сундук мертвеца",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/7c7a4cc2-75e7-4bc4-b230-69b50abff3ea/600x380" : "Корпорация монстров",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/9d2abdb9-358d-4b8b-a7da-b255dd80ab33/600x380" : "Властелин колец: Возвращение короля",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0b107ce5-0dba-430f-bac2-3f0faf01efec/600x380" : "Шерлок Холмс",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/7f277ac2-ef2f-428a-967d-57e2ad4d5db1/600x380" : "Трасса 60",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/92a79c28-e846-4384-8759-a506e1b53393/600x380" : "Три билборда на границе Эббинга, Миссури",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/7164edf7-c16f-4bb0-bfd1-d2d535c282ff/600x380" : "Гран Торино",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/c15c091e-7e79-41b6-b998-3b01ec8cbad5/600x380" : "Песнь моря",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/fa12ee9e-0e2e-42c4-9f65-c5c628cf029b/600x380" : "Ученик чудовища",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/1e4e56e1-6500-49da-8e73-36454d0731d0/600x380" : "Волк с Уолл-стрит",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/5f763d56-64c7-4d54-b456-d4bf4623e181/600x380" : "Лекарь: Ученик Авиценны",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/251318dc-d306-481e-b53c-70d91f86bf4f/600x380" : "Маска",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/991678da-892c-4c0d-828c-e32cb94ae392/600x380" : "День сурка",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/ef63dc02-0b7c-4795-b213-21868116bbc9/600x380" : "Мстители",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/b05f74f9-ca8c-41d8-846f-e26e4745941b/600x380" : "Шрэк",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/4dfda6dd-83e5-4df8-9ed9-100de8ea6c84/600x380" : "Гнев",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/fd138781-dbae-40b1-b197-9aea906c171b/600x380" : "Ford против Ferrari",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/8e796716-f6e0-488f-9551-0d249e778127/600x380" : "Пробуждение",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5c5ef15b-7741-4a50-a8b5-d9ec6433bc20/600x380" : "Темный рыцарь",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/82292c15-bcd1-4cfa-9c1f-c788535c8160/600x380" : "Ледниковый период",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/0cbefccf-2ea9-445c-be03-91cdf8d65c6c/600x380" : "Поймай меня, если сможешь",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/1438a08c-0421-4e7f-86b8-369cf62d2eee/600x380" : "Казино",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/19f27676-aaf9-40d2-a3f2-d51931f3239e/600x380" : "Гордость и предубеждение",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/412911c8-0787-4841-81c9-643db9f14280/600x380" : "Гангстер",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/0e017df0-b2a3-4368-84e6-3b7aa40223e5/600x380" : "Хоббит: Битва пяти воинств",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/eca01bb8-c60d-49a0-bc6e-c545d317c3f1/600x380" : "Троя",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/43edec4c-382c-4401-ba27-f38fe8768667/600x380" : "Достать ножи",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/17b80e9e-90d1-41ad-81be-909a9b4ec123/600x380" : "Человек-паук: Через вселенные",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/f1a57616-ae03-41dd-bf36-66631d9c9b98/600x380" : "Бешеные псы",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/44067ae1-3b10-4ab5-aa31-8255f44f0f0b/600x380" : "Мемуары гейши",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/8e0642c3-db2f-4e4a-94d5-936ee4c80e03/600x380" : "Большой куш",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/c46fde2b-74b1-4729-be93-db41ad451c20/600x380" : "Зеленая книга",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/38c16864-e23b-41c9-87c6-44aac4f07784/600x380" : "Такси",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/cdcaec5e-3472-4b60-8922-b31ee4d10cc2/600x380" : "Город бога",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/4b3d10f2-30b4-44fb-b2c4-bb9e6441c6fb/600x380" : "Области тьмы",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/71cc3bcb-eac2-481c-99b1-65296502ce00/600x380" : "Джанго освобожденный",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/32fef74e-d3a8-495f-8d2b-58e24b082e4f/600x380" : "Спасти рядового Райана",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/ce4e531a-8559-4abf-b55e-e2c3acdd71f6/600x380" : "Мимино",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/674ae04b-b86e-4afe-8cb3-305ef79c5994/600x380" : "Омерзительная восьмерка",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/d69ed082-4b37-4b8e-9eae-34f058d85c7c/600x380" : "Форрест Гамп",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/8f791065-707b-47e3-b082-967db87bba8c/600x380" : "Карты, деньги, два ствола",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/68a4fe4e-87b5-4316-b1f0-1bb537ae38e9/600x380" : "Пираты Карибского моря: Проклятие Черной жемчужины",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2f8e9a11-cc9d-4c5e-8857-ab05e80583ab/600x380" : "Паразиты",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/4288b6aa-e357-4920-ac2f-d8a109d38ded/600x380" : "Спирит: Душа прерий",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/e06d759c-8d75-483d-986b-60be05323d18/600x380" : "Титаник",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/dc9dfed1-270f-4369-8192-799ddc4ddaf0/600x380" : "Матрица",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/b6c78b9c-48f0-407a-a2bc-8847738c69a3/600x380" : "Марсианин",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/0b2c8d8b-31c3-493e-bbc0-1936c7e3d816/600x380" : "Гарри Поттер и Тайная комната",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/44286de2-ebcb-48b1-8103-43ecbb45906d/600x380" : "Славные парни",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/018a0d97-bda4-4679-b62e-7f0ab9e9af74/600x380" : "Брат",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/a32c0e1e-b4c1-40c1-bc48-40608419145d/600x380" : "Военный ныряльщик",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/a0d4a523-f69e-4363-a87a-cca296f047af/600x380" : "Отель «Гранд Будапешт»",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/dd7f4172-a116-40e0-938f-1d0a27d3fbc9/600x380" : "Властелин колец: Братство кольца",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/ffec8bf7-1588-49b2-9233-04c03edd2ac3/600x380" : "Ип Ман 4",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/9225f3ea-dc56-4be9-90a2-8a66e3aa624e/600x380" : "Невероятный мир глазами Энцо",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/c01fb439-7eef-451a-8f8e-a0a448ef4a9c/600x380" : "Изгой",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/a6f07cb7-7844-411d-90c9-c334147f72a1/600x380" : "Лучшее предложение",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/08a0de50-4f8f-4939-8bc7-7a3ac1b34bf9/600x380" : "Гарри Поттер и философский камень",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/221e8f85-71a4-4747-b3b5-7234c0c596b1/600x380" : "Мальчишник в Вегасе",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/44247294-97e2-4ed5-a852-5527a429a66a/600x380" : "По соображениям совести",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/cd14da8b-258c-4393-adf9-09a9c4b1752b/600x380" : "Хатико: Самый верный друг",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/cd39b933-8cfd-4719-8d5c-b08124fd806a/600x380" : "В поисках Немо",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/c2845a36-2100-4437-983b-fd312f9bdaea/600x380" : "Брат 2",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/a8bc2e84-c933-4991-83c8-1c68b5be1945/600x380" : "Леон",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/830f5433-4c26-433f-a2b9-705c42dce2ff/600x380" : "Восточный ветер",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/47a006e7-85ae-472c-99e8-5b28485e8fb5/600x380" : "Радио",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/692d9b89-cb08-4bd9-8770-d3fe23a48ac8/600x380" : "Принцесса Мононоке",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/75c5822c-a632-42f9-9c7b-d995f0d04e5c/600x380" : "Гарри Поттер и Дары Смерти: Часть II",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/f44693a5-df27-4faf-98ed-1e867b3b203d/600x380" : "Как приручить дракона",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/66e33d6d-894e-41dc-891f-c82d5a287e4a/600x380" : "Список Шиндлера",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/e19a5d65-24ad-4cfe-a6d1-7d50abed7310/600x380" : "Легенда о волках",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/5dffb941-f262-4b7a-8128-c00de1347def/600x380" : "Вторая жизнь Уве",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/d8c7bfae-ad84-4416-aec0-41b5e78016cf/600x380" : "Война",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/90af78e2-3981-467a-a2e3-53fd383223de/600x380" : "ВАЛЛ·И",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/a3bea781-6630-46cd-b9dd-adbf3e5650bb/600x380" : "Жизнь прекрасна",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/21692b50-6cfe-47c9-a3fb-4934849922f5/600x380" : "Железный человек",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/d753cf64-94ab-4e22-aa96-d0cde174712a/600x380" : "Гаттака",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/a8b9dba5-795b-4bf3-b14b-1e565712cbea/600x380" : "Тайна третьей планеты",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/e9369aa4-3106-46cd-bc39-579041656553/600x380" : "Доспехи Бога",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/93ccc693-545d-44ad-b4cf-cae06739352e/600x380" : "Адвокат дьявола",
+"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/35975f3e-11e5-483f-9895-be2689f99a0d/600x380" : "Зеленая миля",
 };
