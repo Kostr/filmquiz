@@ -1,4 +1,4 @@
-var data = {}
+// var dict = {}  <------- paste your dictionary here
 var question_number = 0
 
 function ContinueGame(link, pick_text) {
