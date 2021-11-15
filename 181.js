@@ -1,4 +1,4 @@
-data = {
+dict = {
 "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/85fab4ff-51ee-4ba7-9c94-fa17c2c8ac81/600x380" : "Одержимость",
 "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/4eea2d03-c294-4554-8291-20bbc1155d42/600x380" : "Привидение",
 "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/7f011fc0-7dee-4234-be4b-6fa2bf0e340c/600x380" : "Заплати другому",
