@@ -18,5 +18,5 @@ def writeFiles(filename):
             js_file.write(u'"{link}" : "{name}",\n'.format(name=v, link=k))
         js_file.write(u'};\n')
 
-writeFiles("181")
+writeFiles("50")
 writeFiles("2001")
